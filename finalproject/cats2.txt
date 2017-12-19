@@ -1,0 +1,23 @@
+ 1.1NaturalLanguageContentAnalysis.txt|General
+ 1.2TextAccess.txt|General
+ 1.3TextRetreivalProblem.txt|General
+ 1.4OverviewTextRetrievalMethods.txt|General
+ 10.6TextClusteringEvaluation.txt|Topic Models,Clustering & Categorization
+ 11.1TextCategorizationDiscriminativeClassifierPart2(OPTIONAL).txt|Topic Models,Clustering & Categorization
+ 11.4TextCategorizationEvaluationPart2.txt|Topic Models,Clustering & Categorization
+ 12.1OpinionMiningandSentimentAnalysisLatentAspectRatingAnalysisPart1(OPTIONAL).txt|Opinion Mining & Sentiment Analysis
+ 12.2OpinionMiningandSentimentAnalysisLatentAspectRatingAnalysisPart2(OPTIONAL).txt|Opinion Mining & Sentiment Analysis
+ 12.3Text-BasedPrediction.txt|Contextual Text Mining
+ 12.5ContextualTextMiningContextualProbabilisticLatentSemanticAnalysis.txt|Contextual Text Mining
+ 12.6ContextualTextMiningMiningTopicswithSocialNetworkContext.txt|Contextual Text Mining
+ 2.3DocLengthNormalization.txt|IR Models & Implementations
+ 2.6SystemImplementationFastSearch.txt|IR Models & Implementations
+ 3.6EvaluationPracticalIssues.txt|IR Models- Evaluation,Ranking & Feedback
+ 4.2StatisticalLanguageModel.txt|IR Models & Implementations
+ 4.7-SmoothingMethodsPart2.txt|IR Models & Implementations
+ 5.3FeedbackinTextRetrieval-FeedbackinLM.txt|IR Models- Evaluation,Ranking & Feedback
+ 6.1LearningtoRank-Part1(OPTIONAL).txt|IR Models- Evaluation,Ranking & Feedback
+ 6.7RecommenderStstemsCollaborativeFilteringPart1.txt|IR Models- Evaluation,Ranking & Feedback
+ 7-3-natural-language-content-analysis-part-1.txt|General
+ 8.3SyntagmaticRelationDiscoveryMutualInformationPart 1.txt|Relationship Discovery
+ 9.9LatentDirichletAllocation(LDA)Part2.txt|Topic Models,Clustering & Categorization

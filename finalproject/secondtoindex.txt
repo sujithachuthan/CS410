@@ -1,0 +1,42 @@
+1040|Contextual Text Mining
+1041|Contextual Text Mining
+1042|Contextual Text Mining
+1043|Contextual Text Mining
+1044|Contextual Text Mining
+1045|Contextual Text Mining
+1012|IR Models- Evaluation,Ranking & Feedback
+1013|IR Models- Evaluation,Ranking & Feedback
+1014|IR Models- Evaluation,Ranking & Feedback
+1018|IR Models- Evaluation,Ranking & Feedback
+1019|IR Models- Evaluation,Ranking & Feedback
+1020|IR Models- Evaluation,Ranking & Feedback
+1021|IR Models- Evaluation,Ranking & Feedback
+1022|IR Models- Evaluation,Ranking & Feedback
+1006|IR Models & Implementations
+1007|IR Models & Implementations
+1008|IR Models & Implementations
+1009|IR Models & Implementations
+1010|IR Models & Implementations
+1011|IR Models & Implementations
+1015|IR Models & Implementations
+1016|IR Models & Implementations
+1028|Topic Models,Clustering & Categorization
+1029|Topic Models,Clustering & Categorization
+1030|Topic Models,Clustering & Categorization
+1031|Topic Models,Clustering & Categorization
+1032|Topic Models,Clustering & Categorization
+1033|Topic Models,Clustering & Categorization
+1034|Topic Models,Clustering & Categorization
+1035|Opinion Mining & Sentiment Analysis
+1036|Opinion Mining & Sentiment Analysis
+1037|Opinion Mining & Sentiment Analysis
+1038|Opinion Mining & Sentiment Analysis
+1039|Opinion Mining & Sentiment Analysis
+1000|General
+1001|General
+1002|General
+1003|General
+1004|General
+1005|General
+1023|General
+1024|General
